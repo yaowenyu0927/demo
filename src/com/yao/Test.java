@@ -28,6 +28,8 @@ public class Test {
         for (Map.Entry<String, String> stringStringEntry : hashMap.entrySet()) {
             System.out.println(stringStringEntry.getKey()+"-----"+stringStringEntry.getValue());
         }
+        
+        System.out.println("----------------------------------------------");
 
 
         HashSet<String> strings = new HashSet<>();
