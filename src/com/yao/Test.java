@@ -29,7 +29,6 @@ public class Test {
             System.out.println(stringStringEntry.getKey()+"-----"+stringStringEntry.getValue());
         }
 
-        System.out.println("--------------------------");
 
         HashSet<String> strings = new HashSet<>();
         strings.add(null);
